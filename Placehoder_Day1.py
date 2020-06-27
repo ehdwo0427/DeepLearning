@@ -1,4 +1,4 @@
-import tensorflow.compat.v1 as tf
+import tensorflow as tf
 
 a = tf.placeholder(tf.float32)
 b = tf.placeholder(tf.float32)
